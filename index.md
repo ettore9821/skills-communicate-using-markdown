@@ -9,3 +9,6 @@ Ho inserito degli header
 ``` c#
 string myString = "Testo di prova";
 ```
+- [x] Tick 1
+- [x] Tick 2
+- [ ] Empty tick
